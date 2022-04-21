@@ -1,0 +1,7 @@
+﻿  ASD_LAB2_SEM4_main.cpp
+C:\Users\xdvad\source\repos\ASD_LAB2_SEM4\ASD_LAB2_SEM4\Huffman_tree_class.h(286,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_LAB2_SEM4\ASD_LAB2_SEM4\Coding_by_Huffman_tree_class.h(102,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\xdvad\source\repos\ASD_LAB2_SEM4\ASD_LAB2_SEM4\Map_class.h(342): warning C4715: Red_Black_Tree<char,int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Get_map_element: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_LAB2_SEM4\ASD_LAB2_SEM4\Map_class.h(316): warning C4715: Red_Black_Tree<char,int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::find: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_LAB2_SEM4\ASD_LAB2_SEM4\Huffman_tree_class.h(265): warning C4715: HuffmanTree::List::popFront: значение возвращается не при всех путях выполнения
+  ASD_LAB2_SEM4.vcxproj -> C:\Users\xdvad\source\repos\ASD_LAB2_SEM4\Debug\ASD_LAB2_SEM4.exe
